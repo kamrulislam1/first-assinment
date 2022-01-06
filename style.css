@@ -84,3 +84,36 @@ h3 {
     font-weight: 914;
     font-size: 26px;
 }
+.third-section {
+    display: flex;
+    background-image: url(shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 157px;
+    background-position: left,bottom;
+}
+.image img {
+    width: 73%;
+    margin-top: 65px;
+}
+.right-side {
+    margin-right: 266px;
+    margin-top: 112px;
+}
+.right-side {
+    margin-right: 266px;
+    margin-top: 112px;
+}
+.right-side h1 {
+    font-size: 45px;
+}
+.right-side a {
+    text-decoration: none;
+    background: #f7941d;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color:azure;
+    font-weight: 700;
+}
+#orange{
+    color:#f7941d;
+}
