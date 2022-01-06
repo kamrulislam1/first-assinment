@@ -143,3 +143,8 @@ h3 {
     padding: 10px 30px;
     border-radius: 5px;
 }
+footer {
+    background: black;
+    color: pink;
+    text-align: center;
+}
