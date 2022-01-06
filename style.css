@@ -47,6 +47,8 @@ body{
     display: flex;
     width: 90%;
     margin: auto;
+        margin-top: auto;
+    margin-top: 40px;
 }
 .mission {
     width: 30%;
@@ -91,6 +93,14 @@ h3 {
     background-size: 157px;
     background-position: left,bottom;
 }
+.four-section {
+    background-image: url(shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 168px;
+    background-position: right bottom;
+    margin-right: 194px;
+    margin-bottom: 63px;
+}
 .image img {
     width: 73%;
     margin-top: 65px;
@@ -108,7 +118,7 @@ h3 {
 }
 .right-side a {
     text-decoration: none;
-    background: #f7941d;
+    background: #092251;
     padding: 10px 20px;
     border-radius: 5px;
     color:azure;
@@ -116,4 +126,20 @@ h3 {
 }
 #orange{
     color:#f7941d;
+}
+.left-side h1 {
+    font-size: 50px;
+    color: orange;
+}
+.right-side2 img {
+    width: 58%;
+    padding: 0 20px;
+    margin-left: 209px;
+}
+.left-side a {
+    text-decoration: none;
+    color: whitesmoke;
+    background: #092251;
+    padding: 10px 30px;
+    border-radius: 5px;
 }
